@@ -1,0 +1,5 @@
+news_capston/venv/
+news_capston/.venv/
+news_capston/**/__pycache__/
+news_capston/**/*.py[cod]
+news_capston/.env

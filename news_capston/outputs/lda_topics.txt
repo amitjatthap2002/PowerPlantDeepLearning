@@ -1,0 +1,4 @@
+Topic 0: said, president, iraq, reuters, official, minister, bush, people, election, say
+Topic 1: reuters, oil, price, stock, said, new, year, profit, sale, percent
+Topic 2: new, company, microsoft, service, said, software, million, internet, inc, deal
+Topic 3: game, win, first, year, season, team, new, night, one, two

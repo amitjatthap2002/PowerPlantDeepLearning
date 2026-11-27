@@ -1,0 +1,4 @@
+World: afp, president, iraq, leader, iraqi, minister, nuclear, palestinian, military, iran, election, attack, killed, bomb, bush
+Sports: coach, team, season, game, cup, player, sport, champion, olympic, league, victory, night, baseball, win, sunday
+Business: oil, company, price, airline, bank, sale, inc, profit, corp, stock, market, economy, business, buy, share
+Sci/Tech: space, software, internet, microsoft, computer, scientist, apple, technology, system, nasa, web, online, ibm, phone, study
