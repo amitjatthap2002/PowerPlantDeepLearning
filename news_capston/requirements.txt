@@ -1,8 +1,0 @@
-datasets
-scikit-learn
-nltk
-pandas
-matplotlib
-seaborn
-joblib
-ipykernel
